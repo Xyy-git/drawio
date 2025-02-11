@@ -53,8 +53,8 @@
             <mxPoint x="646.5000000000002" y="159.00303797468342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="14" value="Emotion Output" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.02;entryX=0;entryY=0.5;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;entryDx=0;entryDy=0;" parent="2" target="aTnPbn40ItSZbfzdWut3-56" edge="1">
-          <mxGeometry x="0.4421" y="-26" relative="1" as="geometry">
+        <mxCell id="14" value="Negative" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.02;entryX=0;entryY=0.5;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;entryDx=0;entryDy=0;" parent="2" target="aTnPbn40ItSZbfzdWut3-56" edge="1">
+          <mxGeometry x="0.1988" y="-18" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="300" y="460" />
               <mxPoint x="370" y="480" />
@@ -77,7 +77,7 @@
           <mxGeometry x="21.06" y="372.56" width="269.32" height="49.68" as="geometry" />
         </mxCell>
         <mxCell id="aTnPbn40ItSZbfzdWut3-32" value="distracted" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="2">
-          <mxGeometry x="690" y="507.49999999999994" width="60" height="30" as="geometry" />
+          <mxGeometry x="475" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aTnPbn40ItSZbfzdWut3-41" value="Upper Body Posture" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="2">
           <mxGeometry x="170" y="91.61000000000001" width="130" height="30" as="geometry" />
@@ -140,16 +140,16 @@
           <mxGeometry x="380" y="91.61" width="156" height="28.39" as="geometry" />
         </mxCell>
         <mxCell id="aTnPbn40ItSZbfzdWut3-53" value="consentrate" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="2">
-          <mxGeometry x="410" y="206.47253164556963" width="65" height="65" as="geometry" />
+          <mxGeometry x="410" y="210" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="aTnPbn40ItSZbfzdWut3-54" value="neutral" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="2">
-          <mxGeometry x="410" y="279.47253164556963" width="65" height="65" as="geometry" />
+          <mxGeometry x="410" y="285" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="aTnPbn40ItSZbfzdWut3-56" value="distraction" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="2">
           <mxGeometry x="410" y="436.00253164556966" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="aTnPbn40ItSZbfzdWut3-57" value="boredom" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="2">
-          <mxGeometry x="410" y="357.24253164556967" width="65" height="65" as="geometry" />
+          <mxGeometry x="410" y="361" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="17" value="ModulationProcess" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="1570" y="810" width="192" height="54" as="geometry" />
