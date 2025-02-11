@@ -137,7 +137,7 @@
           <mxGeometry x="185" y="344.47" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="16" value="Student Affective State" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="2" vertex="1">
-          <mxGeometry x="380" y="91.61" width="156" height="28.39" as="geometry" />
+          <mxGeometry x="364.5" y="92.41" width="156" height="28.39" as="geometry" />
         </mxCell>
         <mxCell id="aTnPbn40ItSZbfzdWut3-53" value="consentrate" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="2">
           <mxGeometry x="410" y="210" width="65" height="65" as="geometry" />
