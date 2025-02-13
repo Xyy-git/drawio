@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.11">
   <diagram name="第 1 页" id="Mu2E_eLrNELdEOU-j35A">
-    <mxGraphModel dx="1113" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Emotion Modal" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="2" value="            &#xa;&#xa;                                                                                          Emotion Modal" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;align=left;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="100" width="1610" height="610" as="geometry" />
         </mxCell>
         <mxCell id="7" value="enjoyment" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="2" vertex="1">
